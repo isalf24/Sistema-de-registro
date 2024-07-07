@@ -3,4 +3,4 @@
 - Estado del proyecto: en construnccion
 
 - para ejecutar el sistema debes poner 
-'''npm install ract'''
+```npm install ract```
